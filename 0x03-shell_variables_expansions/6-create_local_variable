@@ -1,3 +1,2 @@
 #!/bin/bash
-BETTY="Holberton"
-echo "why?">> 6-create_local_variable
+Best="School"

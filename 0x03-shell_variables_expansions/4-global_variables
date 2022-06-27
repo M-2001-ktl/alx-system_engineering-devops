@@ -1,3 +1,2 @@
 #!/bin/bash
 printenv
-echo "why?">> 4-global_variables

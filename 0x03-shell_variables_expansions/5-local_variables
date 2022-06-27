@@ -1,3 +1,2 @@
 #!/bin/bash
 set
-echo "why?">> 5-local_variables
