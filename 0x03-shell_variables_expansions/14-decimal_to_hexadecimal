@@ -1,0 +1,3 @@
+#!/bin/bash
+printf '%x\n' $DECIMAL
+echo "why?">> 14-decimal_to_hexadecimal
